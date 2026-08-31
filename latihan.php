@@ -12,4 +12,4 @@ while($i <count($angka)){
     }
 echo "<br>";
     $i++;
-}
+} //mencoba
